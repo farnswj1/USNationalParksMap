@@ -12,7 +12,7 @@ const PARKS: Park[] = [
     lng: -94.449081
   },
   {
-    title: 'Arches National Park,',
+    title: 'Arches National Park',
     lat: 38.733082,
     lng: -109.592514
   },
@@ -40,11 +40,6 @@ const PARKS: Park[] = [
     title: 'Buffalo National River',
     lat: 35.985512,
     lng: -92.757652
-  },
-  {
-    title: 'Cades Cove, Great Smoky Mountains National Park',
-    lat: 35.59367,
-    lng: -83.824997
   },
   {
     title: 'Capitol Reef National Park',
@@ -322,7 +317,7 @@ const PARKS: Park[] = [
     lng: -105.688103
   },
   {
-    title: 'Rothrock State Forest, State College',
+    title: 'Rothrock State Forest',
     lat: 40.720585,
     lng: -77.826965
   },
